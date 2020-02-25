@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer http://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="34.0260562" lon="-117.8361638">
+  <name>Chick-fil-A</name>
+</wpt>
+<wpt lat="34.0255787" lon="-117.8356638">
+  <name>24 Hour Fitness Sport, 21560 Valley Blvd, City of Industry, CA 91789</name>
+</wpt>
+<trk>
+  <name>Chick-fil-A - 24 Hour Fitness Sport, 21560 Valley Blvd, City of Industry, CA 91789</name>
+  <desc>0.2 mi, 0:02</desc>
+  <trkseg>
+    <trkpt lat="34.02596" lon="-117.83624"></trkpt>
+    <trkpt lat="34.02594" lon="-117.83619"></trkpt>
+    <trkpt lat="34.02593" lon="-117.83613"></trkpt>
+    <trkpt lat="34.02593" lon="-117.8361"></trkpt>
+    <trkpt lat="34.02594" lon="-117.83608"></trkpt>
+    <trkpt lat="34.02594" lon="-117.83607"></trkpt>
+    <trkpt lat="34.02597" lon="-117.83604"></trkpt>
+    <trkpt lat="34.02607" lon="-117.83598"></trkpt>
+    <trkpt lat="34.02609" lon="-117.83597"></trkpt>
+    <trkpt lat="34.02613" lon="-117.83592"></trkpt>
+    <trkpt lat="34.02613" lon="-117.83592"></trkpt>
+    <trkpt lat="34.02612" lon="-117.8359"></trkpt>
+    <trkpt lat="34.02591" lon="-117.83578"></trkpt>
+    <trkpt lat="34.02591" lon="-117.83578"></trkpt>
+    <trkpt lat="34.02586" lon="-117.83592"></trkpt>
+    <trkpt lat="34.02585" lon="-117.83596"></trkpt>
+    <trkpt lat="34.02578" lon="-117.83614"></trkpt>
+    <trkpt lat="34.02577" lon="-117.83615"></trkpt>
+    <trkpt lat="34.02577" lon="-117.83619"></trkpt>
+    <trkpt lat="34.02577" lon="-117.83623"></trkpt>
+    <trkpt lat="34.02579" lon="-117.83627"></trkpt>
+    <trkpt lat="34.0258" lon="-117.83628"></trkpt>
+    <trkpt lat="34.0258" lon="-117.83628"></trkpt>
+    <trkpt lat="34.02569" lon="-117.83621"></trkpt>
+    <trkpt lat="34.02562" lon="-117.83617"></trkpt>
+    <trkpt lat="34.02514" lon="-117.8359"></trkpt>
+    <trkpt lat="34.02514" lon="-117.8359"></trkpt>
+    <trkpt lat="34.02516" lon="-117.83586"></trkpt>
+    <trkpt lat="34.02534" lon="-117.8355"></trkpt>
+  </trkseg>
+</trk>
+</gpx>
